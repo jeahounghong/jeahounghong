@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 <h5 align="center">Hi, my name is David and I am a fullstack software engineer. I hope you enjoy the myriad projects that I had the opportunity to be involved in!</h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeahounghong&label=Profile%20views&color=ff79c6&style=for-the-badge" alt="leochung97" /> </p
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeahounghong&label=Profile%20views&color=ff79c6&style=for-the-badge" alt="jeahounghong" /> </p
 
 <h3 align="center">Languages and Tools:</h3>
 
